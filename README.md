@@ -1,0 +1,2 @@
+# Garbage-Monitoring
+This project basically detects the amount of garbage in the dustbins and gives an alarm to the admin if any dustbin is filled or overloaded which initiates the cleaning process which is done by the garbage collector just to make sure that the surrounding is cleaned and the garbage collector does not have to roam all over the places to check which dustbin is filled which indeed will save the fuel consumption and reduce unnecessary running of the vehicles.
